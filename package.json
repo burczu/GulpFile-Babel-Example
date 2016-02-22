@@ -1,0 +1,19 @@
+{
+  "name": "gulpfile-babel-example",
+  "version": "1.0.0",
+  "description": "An example app which uses gulpfile.babel.js for the blog post purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/burczu/GulpFile-Babel-Example.git"
+  },
+  "author": "Bartłomiej Dybowski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/burczu/GulpFile-Babel-Example/issues"
+  },
+  "homepage": "https://github.com/burczu/GulpFile-Babel-Example#readme"
+}
